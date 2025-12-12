@@ -1,1 +1,3 @@
-# OM-Blocks-A-clone-of-Tetris-game-using-Python-
+# OM-Blocks Game 
+This a clone version of tetris game
+
